@@ -10,7 +10,7 @@ Aditionally, it will also implement ideas I'd like to see in other browsers.
 Alpha `v0.1.x`:
  * Very basic UI, without tabs
  * Supported protocols: HTTP and HTTPS
- * Supported MIME types: text/plain
+ * Supported MIME types: `text/plain`, `text/html`
  * Supported charsets and encoding: ASCII only
  * Javascript support: no
  * CSS3 support: partial (`color`, `display`, `width`, `height`, `background-color`, `padding`, `margin`, `border`)
