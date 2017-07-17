@@ -1,4 +1,4 @@
-## rust-browser
+## rust-web-browser
 This is a simple web browser written in [Rust](https://www.rust-lang.org/en-US/) `1.18.x`.
 
 The intention is NOT to closely follow standards, be suitable for everyday use, or be security-oriented. 
