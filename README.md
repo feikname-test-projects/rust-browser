@@ -1,5 +1,5 @@
 ## rust-web-browser
-This is a simple web browser written in [Rust](https://www.rust-lang.org/en-US/) `1.18.x`.
+This is a simple web browser written in [Rust](https://www.rust-lang.org/en-US/) `1.19.x`.
 
 The intention is NOT to closely follow standards, be suitable for everyday use, or be security-oriented. 
 Instead, this is merely a pet project for me to better understand web browsers and the rust language.
