@@ -9,12 +9,12 @@ Aditionally, it will also implement ideas I'd like to see in other browsers.
 ## Roadmap
 Alpha `v0.1.x`:
  * Very basic UI, without tabs
- * Supported protocols: HTTP and HTTPS
+ * Supported protocols: HTTP 1.0
  * Supported MIME types: `text/plain`, `text/html`
  * Supported charsets and encoding: ASCII only
  * Javascript support: no
  * CSS3 support: partial (`color`, `display`, `width`, `height`, `background-color`, `padding`, `margin`, `border`)
- * HTML5 support: partial (`div`, `p`, `span`, `input`, `form`, `noscript`, `a`, `h1 to h6`, `hr`, `br`)
+ * HTML5 support: partial (`div`, `p`, `span`, `noscript`, `a`, `h1`, `h2`, `h3`,`h4`, `h5`, `h6`, `hr`, `br`)
  
  Alpha `v0.2.x`:
   * TODO
